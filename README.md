@@ -1,6 +1,8 @@
 # LKS-Kota-Tangerang
-Hasil LKS Kota Tanegrang 2018.
+Hasil LKS Kota Tangerang 2018.
+
 Peserta : Reza Juliandri
+
 Asal Sekolah : SMKN 5 Kota Tangerang
 
 # Cara Penggunaan
